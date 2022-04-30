@@ -2,16 +2,10 @@
 ## Alias OBJ Material File
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 
-newmtl Laura_Shoes
+newmtl FrontColor
 Ka 0.000000 0.000000 0.000000
-Kd 0.576471 0.403922 0.290196
+Kd 1.000000 1.000000 1.000000
 Ks 0.330000 0.330000 0.330000
-
-newmtl _
-Ka 0.000000 0.000000 0.000000
-Kd 0.498039 0.513725 0.333333
-Ks 0.330000 0.330000 0.330000
-map_Kd Commonwealth/_.png
 
 newmtl ForegroundColor
 Ka 0.000000 0.000000 0.000000

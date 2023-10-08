@@ -1,0 +1,10 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Siren
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.568627 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd siren/Siren.png
+

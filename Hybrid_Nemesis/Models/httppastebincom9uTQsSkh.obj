@@ -1,0 +1,396 @@
+<!DOCTYPE HTML>
+	<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-58643-34');
+</script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>2x1RectangleTwosided - Pastebin.com</title>
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<script src="/js/jquery.min.js"></script>
+		<script src="/js/pastebin.min.v3.js"></script>
+		<link href="/i/pastebin.min.v6.css" rel="stylesheet" type="text/css" />
+		<!--[if lt IE 10]>
+			<link href="/i/pastebin.ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+
+
+			<link href="/cache/css_lang/text.css" rel="stylesheet" type="text/css" /> 
+		<style>body{-webkit-text-size-adjust:none;}</style>
+				<meta property="fb:app_id" content="231493360234820" />
+		<meta property="og:title" content="2x1RectangleTwosided - Pastebin.com" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="https://pastebin.com/9uTQsSkh" />
+		<meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+		<meta property="og:site_name" content="Pastebin" />
+		<meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+		<link rel="canonical" href="https://pastebin.com/9uTQsSkh" />
+				<meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=yes">
+		
+
+			
+		
+
+		
+		
+
+		
+		
+		
+		
+		<script type="text/javascript">
+			if (top != self)
+				top.location.href = location.href;
+		</script>
+
+	</head>
+	<body>
+	<div id="main_frame">
+		<div id="jq-dropdown-1" class="jq-dropdown jq-dropdown-anchor-right jq-dropdown-scroll">
+			<ul class="jq-dropdown-menu">
+				
+				<li class="lih_640">
+					<form class="search_form_li" name="search_form_li" method="get" action="/search" id="cse-search-box-li">
+						<input class="search_input_li" type="text" name="q" size="5" value="" placeholder="search..." />
+					</form>
+
+				</li>
+				<li class="lih_div"></li>
+				<li onclick="location.href='/signup'" class="dd_su">Sign Up</li>
+				<li onclick="location.href='/login'" class="dd_lo">Login</li>
+				<li class="lih_div"></li>
+				<li onclick="location.href='/api'" class="lih_640">API</li>
+				<li onclick="location.href='/faq'" class="lih_640">FAQ</li>
+				<li onclick="location.href='/tools'" class="lih_640">Tools</li>
+				<li onclick="location.href='/archive'" class="lih_640">Archive</li>			</ul>
+		</div>
+		<div id="header">
+			<div id="header_wrap">
+				<div id="header_top">
+					<div id="header_logo" onclick="location.href='/'">PASTEBIN</div>
+					<div id="header_new_paste" class="new_paste_button" onclick="location.href='/'">new paste</div>
+					<div id="header_links">
+						<a href="/api" class="mmh">API</a>
+						<a href="/tools" class="mmh">tools</a>
+						<a href="/faq" class="mmh">faq</a>
+						<a href="https://deals.pastebin.com" target="_blank" class="mmh">deals</a>						
+					</div>
+					<div id="header_search">
+						<form class="search_form" name="search_form" method="get" action="/search" id="cse-search-box">
+							<input class="search_input" type="text" name="q" size="5" value="" placeholder="search..." />
+						</form> 
+					</div>
+					
+					<div id="header_members">
+						<div id="header_dropdown" data-jq-dropdown="#jq-dropdown-1">&nbsp;</div>
+						<div id="header_icon"><a href="/login"><img src="/i/guest.png" class="header_icon" alt="" /></a></div>
+						<div id="header_user_frame">
+							<div id="header_username">Guest User</div>
+							<div id="header_user_status">-</div>
+						</div>
+						<div id="header_icons">
+							<a href="/login" title="My Pastebin"><img src="/i/t.gif" class="header_icons hi_mypastebin" alt="" /></a>
+							<a href="/messages" title="My Messages"><img src="/i/t.gif" class="header_icons hi_messages" alt="" /></a>
+							<a href="/alerts" title="My Alerts"><img src="/i/t.gif" class="header_icons hi_alerts" alt="" /></a>
+							<a href="/settings" title="My Settings"><img src="/i/t.gif" class="header_icons hi_settings" alt="" /></a>
+						</div>
+					</div>				</div>
+			</div>
+		</div>
+		<div id="super_frame">
+			<div id="monster_frame">
+				<div id="content_frame">
+					<div id="content_right">						
+
+												<div class="content_right_menu">
+									<div class="content_right_title"><a href="/archive">Public Pastes</a></div>
+									<div id="menu_2">
+										<ul class="right_menu"><li><a href="/C0HBpnJj">Untitled</a><span>1 sec ago</span></li><li><a href="/nDSccmwY">Untitled</a><span>2 sec ago</span></li><li><a href="/9705dEdx">Capture the flag s...</a><span>5 sec ago</span></li><li><a href="/05azP1JZ">Untitled</a><span>8 sec ago</span></li><li><a href="/eAm3wsr7">Untitled</a><span>9 sec ago</span></li><li><a href="/Hds0ji3M">Untitled</a><span>13 sec ago</span></li><li><a href="/HUKNbC3r">Untitled</a><span>PHP | 19 sec ago</span></li><li><a href="/wR3cBKaW">Untitled</a><span>25 sec ago</span></li></ul></div></div>						
+						
+						
+						
+<div style="border:1px solid #DDD;padding:1px;width:156px; border-radius:3px;">
+	<div style="border:1px solid #ddd; font-size:0.75em;text-align:center;background:#F9F9F9; border-radius:3px;">	
+		<div style="padding: 3px 0">daily pastebin <a href="/pro?help=1"><img src="/i/t.gif" alt="" class="pro_btn_inv"></a> goal</div>
+		<div style="width:152px;height:37px;">
+			<div style="position:relative;border:1px solid #DDD;border-radius: 5px;width:126px;height:25px;margin:0 0 0 10px" title="Goal updates every 15 minutes...">
+				<div style="position:absolute;left:0;top:0;background-color: #DDD;border-radius: 0 0 0 0 ;width:114px;height:25px;"></div>
+				<div style="position:absolute;right:5px;width:25px;height:20px;top:0;">90%</div>
+			</div>
+		</div>
+		<div style="clear:both;margin: 0 0 10px 0"><a href="/pro?help=1" class="buttonpro" style="font-size:0.9em" title="Learn more about going PRO">help support pastebin</a></div>
+	</div>
+</div>
+						<div id="abrpm2"></div>
+						
+			<div style="padding: 0; width:160px;margin: 10px 0;clear:left;">
+				<script type="text/javascript"><!--
+					e9 = new Object();
+					e9.size = "160x600,120x600";
+				//--></script>
+				<script type="text/javascript" src="//tags.expo9.exponential.com/tags/Pastebincom/Safe/tags.js"></script>
+			</div>						
+									
+				<div id="steadfast" title="Pastebin is proudly hosted by Steadfast.net" onclick="location.href='http://steadfast.net/?utm_source=pastebin.com&amp;utm_medium=referral&amp;utm_content=hosting_by_banner&amp;utm_campaign=referral_20140118_x_x_pastebin_partner&amp;source=referral_20140118_x_x_pastebin_partner'"></div>						
+						
+					</div>
+					<div id="content_left"><div id="ie_msg"></div>
+				
+		
+		
+	<div class="paste_box_frame">
+		<div class="tweet h_800">
+			<div onclick="facebookpopup('/9uTQsSkh'); return false;" id="b_facebook2" title="Share on Facebook!"><span id="b_facebook">SHARE</span></div>
+			<div onclick="twitpopup('/9uTQsSkh'); return false;" id="b_twitter2" title="Share on Twitter!"><span id="b_twitter">TWEET</span></div>
+		</div>
+		<div class="paste_box_icon">
+			<img src="/i/t.gif" class="i_gb" alt="" />
+		</div>
+		<div class="paste_box_info">
+			<div class="paste_box_line1" title="2x1RectangleTwosided"><h1>2x1RectangleTwosided</h1></div>
+			<div class="paste_box_line2">
+				<img src="/i/t.gif" class="img_line t_us" alt="" style="margin-left:0"> <a href="/u/JamesManhattan">JamesManhattan</a>  <a href="/message_compose?to=JamesManhattan"><img src="/i/t.gif" class="i_pm" title="Send a private message to: JamesManhattan" alt="" /></a>
+				<img src="/i/t.gif" class="img_line t_da" alt=""> <span title="Tuesday 8th of December 2015 07:33:49 PM CDT">Dec 8th, 2015</span>
+				<img src="/i/t.gif" class="img_line t_vi" alt="" title="Unique visits to this paste"> 168
+				<img src="/i/t.gif" class="img_line t_ex" alt="" title="When this paste gets automatically deleted"> Never
+			</div>
+		</div>
+	</div>
+	
+			<div id="abrpm"></div>
+			<div class="banner_728">
+				<script type="text/javascript"><!--
+					e9 = new Object();
+					e9.size = "970x250,728x90";
+				//--></script>
+				<script type="text/javascript" src="//tags.expo9.exponential.com/tags/Pastebincom/Safe/tags.js"></script>
+			</div>
+			<div class="layout_clear"></div>	
+<style>
+span.c_space2  {display:inline-block;width: 22px;background:#282828;border-radius: 5px;height:22px;line-height:22px;margin: -10px 5px 0 0;text-align:center;}
+span.c_space  {display:inline-block;width: 20px;height:18px;color:#ddd;line-height:0.85em;margin: 0 10px 0 0;text-align:center;font-size:0.8em; }
+#blackfridaynotice {background:#000 url(/i/blackfriday_bg.png) no-repeat;color: #fff;display: block;height:43px;color:#fff; }
+.countdown {margin: 10px 0 0 0;width:300px;float:right;text-align:right;}
+@media screen and (max-width: 820px) {
+.countdown {display:none;}
+}</style>			
+<div class="content_text no_padding">
+	<div id="blackfridaynotice" style="margin: 0 0 10px 0">
+		<a href="/pro?coupon=blackfri"><img src="/i/t.gif" alt="Upgrade to PRO!" border="0" style="width:450px;height:40px;" />	</a>			
+		<div class="countdown">
+			<span class="c_space" style="font-weight:bold;width:62px">ENDING IN</span><span class="c_space2 days">00</span><span class="c_space">days</span><span class="c_space2 hours">00</span><span class="c_space">hours</span><span class="c_space2 minutes">00</span><span class="c_space">mins</span><span class="c_space2 seconds">00</span><span class="c_space">secs</span>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="/js/jquery.downCount.js"></script> 
+<script class="source" type="text/javascript">
+	$('.countdown').downCount({
+		date: '11/26/2018 23:59:59',
+		offset: +10
+	}, function () {
+		$('.countdown').hide();
+	});
+</script> 		
+	
+	
+	
+	<div id="code_frame2">
+		<div id="code_frame">
+			<div id="code_buttons">
+				<span class="go_right">
+					<a href="/raw/9uTQsSkh" class="buttonsm">raw</a><a href="/dl/9uTQsSkh" class="buttonsm">download</a><a href="/index/9uTQsSkh" class="buttonsm buttonhide">clone</a><a href="/embed/9uTQsSkh" class="buttonsm buttonhide">embed</a><a href="/report/9uTQsSkh" class="buttonsm">report</a><a href="/print/9uTQsSkh" class="buttonsm buttonhide">print</a>
+				</span>
+				<span class="h_640"><a href="/archive/text" class="buttonsm" style="margin:0">text</a></span> 0.94 KB
+			</div>
+			<div id="selectable">
+				<div class="text"><ol><li class="li1"><div class="de1"># Blender v2.76 (sub 0) OBJ File: '2x1RectangleTwosided.blend'</div></li>
+<li class="li2"><div class="de2"># www.blender.org</div></li>
+<li class="li1"><div class="de1">mtllib 2x1RectangleTwosided.mtl</div></li>
+<li class="li2"><div class="de2">o Cube</div></li>
+<li class="li1"><div class="de1">v 1.000000 -0.050000 -1.000000</div></li>
+<li class="li2"><div class="de2">v 1.000000 -0.050000 -0.000000</div></li>
+<li class="li1"><div class="de1">v -1.000000 -0.050000 -0.000000</div></li>
+<li class="li2"><div class="de2">v -1.000000 -0.050000 -1.000000</div></li>
+<li class="li1"><div class="de1">v 1.000000 0.050000 -1.000000</div></li>
+<li class="li2"><div class="de2">v 0.999999 0.050000 0.000000</div></li>
+<li class="li1"><div class="de1">v -1.000000 0.050000 -0.000000</div></li>
+<li class="li2"><div class="de2">v -1.000000 0.050000 -1.000000</div></li>
+<li class="li1"><div class="de1">vt 0.994034 -0.011917</div></li>
+<li class="li2"><div class="de2">vt 0.994034 0.511917</div></li>
+<li class="li1"><div class="de1">vt 0.005966 0.511917</div></li>
+<li class="li2"><div class="de2">vt 0.005966 -0.011917</div></li>
+<li class="li1"><div class="de1">vt 0.999900 0.999899</div></li>
+<li class="li2"><div class="de2">vt 0.000100 0.999900</div></li>
+<li class="li1"><div class="de1">vt 0.000100 0.500100</div></li>
+<li class="li2"><div class="de2">vt 0.999899 0.500100</div></li>
+<li class="li1"><div class="de1">vt 0.000000 0.000000</div></li>
+<li class="li2"><div class="de2">vn 0.000000 -1.000000 0.000000</div></li>
+<li class="li1"><div class="de1">vn 0.000000 1.000000 0.000000</div></li>
+<li class="li2"><div class="de2">vn 1.000000 0.000000 0.000000</div></li>
+<li class="li1"><div class="de1">vn -0.000000 -0.000000 1.000000</div></li>
+<li class="li2"><div class="de2">vn -1.000000 -0.000000 -0.000000</div></li>
+<li class="li1"><div class="de1">vn 0.000000 0.000000 -1.000000</div></li>
+<li class="li2"><div class="de2">usemtl Material</div></li>
+<li class="li1"><div class="de1">s off</div></li>
+<li class="li2"><div class="de2">f 1/1/1 2/2/1 3/3/1 4/4/1</div></li>
+<li class="li1"><div class="de1">f 5/5/2 8/6/2 7/7/2 6/8/2</div></li>
+<li class="li2"><div class="de2">f 1/9/3 5/9/3 6/9/3 2/9/3</div></li>
+<li class="li1"><div class="de1">f 2/9/4 6/9/4 7/9/4 3/9/4</div></li>
+<li class="li2"><div class="de2">f 3/9/5 7/9/5 8/9/5 4/9/5</div></li>
+<li class="li1"><div class="de1">f 5/9/6 1/9/6 4/9/6 8/9/6</div></li>
+</ol></div>
+			</div>
+		</div>
+	</div>
+	<div class="content_title no_border">RAW Paste Data<div id="bsa-footer"></div></div>
+	<div class="textarea_border" style="margin-bottom:0">
+		<textarea id="paste_code" class="paste_code" name="paste_code" onkeydown="return catchTab(this,event)"># Blender v2.76 (sub 0) OBJ File: '2x1RectangleTwosided.blend'
+# www.blender.org
+mtllib 2x1RectangleTwosided.mtl
+o Cube
+v 1.000000 -0.050000 -1.000000
+v 1.000000 -0.050000 -0.000000
+v -1.000000 -0.050000 -0.000000
+v -1.000000 -0.050000 -1.000000
+v 1.000000 0.050000 -1.000000
+v 0.999999 0.050000 0.000000
+v -1.000000 0.050000 -0.000000
+v -1.000000 0.050000 -1.000000
+vt 0.994034 -0.011917
+vt 0.994034 0.511917
+vt 0.005966 0.511917
+vt 0.005966 -0.011917
+vt 0.999900 0.999899
+vt 0.000100 0.999900
+vt 0.000100 0.500100
+vt 0.999899 0.500100
+vt 0.000000 0.000000
+vn 0.000000 -1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 1.000000 0.000000 0.000000
+vn -0.000000 -0.000000 1.000000
+vn -1.000000 -0.000000 -0.000000
+vn 0.000000 0.000000 -1.000000
+usemtl Material
+s off
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/2 8/6/2 7/7/2 6/8/2
+f 1/9/3 5/9/3 6/9/3 2/9/3
+f 2/9/4 6/9/4 7/9/4 3/9/4
+f 3/9/5 7/9/5 8/9/5 4/9/5
+f 5/9/6 1/9/6 4/9/6 8/9/6</textarea>
+	</div><div id="abrpm3"></div>
+			<div style="padding: 10px 0 0 0;">
+				<script type="text/javascript"><!--
+					e9 = new Object();
+					e9.size = "300x600,300x250";
+				//--></script>
+				<script type="text/javascript" src="//tags.expo9.exponential.com/tags/Pastebincom/Safe/tags.js"></script>
+			</div>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$(".close1").click(function(){return $("#float-box-1").hide(),createCookie("l2c_1",!0,90),!1});
+		$(".cookie_button").click(function(){return $("#float-box-1").hide(),createCookie("l2c_1",!0,90),!1});		
+		$(".close2").click(function(){return $("#float-box-2").hide(),createCookie("l2c_2",!0,14),!1});
+		$(".close3").click(function(){return $("#float-box-3").hide(),createCookie("l2c_2",!0,14),!1});
+
+	});	
+	</script>
+	<div id="float-box-frame">		
+		<div id="float-box-1">
+			We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>. <span class="cookie_button">OK, I Understand</span>
+		</div>
+					<div id="float-box-2">
+						<style>
+							.carbon-poweredby,.carbon-poweredby a{color:#ccc;font-size:.7em}
+							.carbon-poweredby{display:none;}
+							.carbon-img img{height:90px;width:117px;float:left;vertical-align:top}
+							.carbon-text{margin:7px 0 0 10px;padding:0;width:180px;font-family:segoe ui,trebuchet MS,Lucida Sans Unicode,Lucida Sans,Sans-Serif;font-size:.8em}
+							a.carbon-text{color:#C03;text-decoration:none;text-transform:uppercase;float:left;font-weight:500;padding:0 0 0 7px;margin:-3px 0 0 0;}
+							a.carbon-text:hover{color:#999;text-decoration:none}							
+						</style>					
+						<div style="width:327px;">
+							<div style="width:327px;float:left;">
+							<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CK7DT2JY&placement=pastebincom" id="_carbonads_js"></script></div>
+						</div>
+						<div class="close2" title="Close Me">&nbsp;</div>
+					</div></div>						</div>
+					</div>
+				</div>
+			</div>
+			<div id="mid_footer">
+				<a href="/tools#chrome" title="Google Chrome Extension"><img src="/i/t.gif" alt="" class="icon24 chrome" /></a>
+				<a href="/tools#firefox" title="Firefox Extension"><img src="/i/t.gif" alt="" class="icon24 firefox" /></a>
+				<a href="/tools#iphone" title="iPhone/iPad Application"><img src="/i/t.gif" alt="" class="icon24 iphone" /></a>
+				<a href="/tools#windows" title="Windows Desktop Application"><img src="/i/t.gif" alt="" class="icon24 windows" /></a>
+				<a href="/tools#android" title="Android Application"><img src="/i/t.gif" alt="" class="icon24 android" /></a>
+				<a href="/tools#macos" title="MacOS X Widget"><img src="/i/t.gif" alt="" class="icon24 macos" /></a>
+				<a href="/tools#opera" title="Opera Extension"><img src="/i/t.gif" alt="" class="icon24 opera" /></a>
+				<a href="/tools#pastebincl" title="Linux Application"><img src="/i/t.gif" alt="" class="icon24 unix" /></a>
+			</div> 
+		</div>
+		<div id="footer">
+			<div id="footer_links">
+				<a href="/">create new paste</a> &nbsp;/&nbsp; 
+				<a href="https://deals.pastebin.com">deals</a><sup style="color:red">new!</sup> &nbsp;/&nbsp; 
+				<a href="/api">api</a> &nbsp;/&nbsp; 
+				<a href="/doc_scraping_api">scraping api</a> &nbsp;/&nbsp; 
+				<a href="/languages">syntax languages</a> &nbsp;/&nbsp; 
+				<a href="/archive">archive</a> &nbsp;/&nbsp; 
+				<a href="/faq">faq</a> &nbsp;/&nbsp; 
+				<a href="/tools">tools</a> &nbsp;/&nbsp; 
+				<a href="/night_mode">night mode</a> &nbsp;/&nbsp; 
+				<a href="/pro">go <img src="/i/t.gif" alt="" title="Get a PRO account!" class="pro_btn_inv" /></a>
+				<br />
+				<a href="/doc_privacy_statement">privacy statement</a> &nbsp;/&nbsp; 
+				<a href="/doc_cookies_policy">cookies policy</a> &nbsp;/&nbsp; 
+				<a href="/doc_terms_of_service">terms of service</a> &nbsp;/&nbsp; 
+				<a href="/doc_security_disclosure">security disclosure</a> &nbsp;/&nbsp; 
+				<a href="/dmca">dmca</a> &nbsp;/&nbsp; 
+				<a href="/contact">contact</a>
+				<br /><br />
+				<span class="h_800">
+					By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
+					<br />
+					Site design &amp; logo &copy; 2018 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a> -- 
+				</span>
+				<a href="http://steadfast.net/services/dedicated-servers.php?utm_source=pastebin.com&amp;utm_medium=referral&amp;utm_content=footer_link_dedicated_server_hosting_by&amp;utm_campaign=referral_20140118_x_x_pastebin_partner&amp;source=referral_20140118_x_x_pastebin_partner" rel="nofollow" target="_blank">Dedicated Server Hosting</a> by <a href="http://steadfast.net/?utm_source=pastebin.com&amp;utm_medium=referral&amp;utm_content=footer_link_steadfast&amp;utm_campaign=referral_20140118_x_x_pastebin_partner&amp;source=referral_20140118_x_x_pastebin_partner" rel="nofollow" target="_blank">Steadfast</a>
+			</div>
+			<div id="footer_right" class="h_1024">
+			
+				<a href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"><img src="/i/t.gif" alt="" class="icon40 facebook_circle" /></a>
+				<a href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"><img src="/i/t.gif" alt="" class="icon40 twitter_circle" /></a>
+							</div>
+		</div>
+
+			<script type="text/javascript"><!--
+			  e9 = new Object();
+			  e9.snackbar = true;
+			//--></script>
+			<script type="text/javascript" src="//tags.expo9.exponential.com/tags/Pastebincom/SnackbarSafe/tags.js"></script>
+			<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+			<script>
+			(function() {
+			  if (typeof _bsa !== 'undefined' && _bsa) {
+				_bsa.init('fancybar', 'CKYDL2JL', 'placement:pastebincom');
+			  }
+			})();
+			</script>
+		<script type="text/javascript">
+			function abdd() {$("#adb-enabled").show(), $("#adb-not-enabled").hide(), $("#abrpm3").html("<center><iframe src='/zip/cube_safe.php' id='monkey_3' marginwidth='0' align='center' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' allowtransparency='true' width='300' height='250' style='width: 300px; height: 250px; margin-top:10px;'></iframe></center>"), $("#abrpm2").html("<iframe src='/zip/sky_safe.php' id='monkey' marginwidth='0' align='center' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' allowtransparency='true' width='160' height='600' style='width: 160px; height: 600px;'></iframe>"), $("#abrpm").html("<iframe src='/zip/lead_safe.php' id='monkey_2' marginwidth='0' align='center' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' allowtransparency='true' width='728' height='100' style='width: 728px; height: 100px;'></iframe>")}
+			function abnd(){$("#adb-enabled").hide(), $("#adb-not-enabled").show()}$(function(){}), "undefined" == typeof fuckAdBlock ? abdd() : (fuckAdBlock.setOption({debug: !1}), fuckAdBlock.onDetected(abdd).onNotDetected(abnd));
+			var $title=$("a,input,p,label,textarea[title],img,button,span");$.each($title,function(){$(this).tooltip({show:{delay:1},hide:{delay:1}})});
+		</script>		<script type="text/javascript">
+			function isIE(){var e=navigator.userAgent.toLowerCase();return-1!=e.indexOf("msie")?parseInt(e.split("msie")[1]):!1}if(isIE()&&isIE()<10){var div=document.getElementById("ie_msg");div.innerHTML=div.innerHTML+'<div id="old_browser">Your browser is outdated and insecure! Pastebin does not offer support for your browser. <a href="http://outdatedbrowser.com/" target="_blank" rel="nofollow">Click here to update your browser</a>!</div>'}
+		</script>
+		<div class="pub_300x250"></div><a href="#0" class="cd-top">Top</a>
+		
+	
+		
+	</body>
+</html>

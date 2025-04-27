@@ -1,8 +1,8 @@
 # Vectary OBJ Export units=mm
 mtllib Escort_Alliance.mtl
-o 000_EscortA_-_baked_-_baked
-g EscortA_-_baked
-usemtl EscortA_63778e0a-b8b8-4c33-b522-87a224d12c3d
+o 000_Escort_Alliance_-_baked
+g Escort_Alliance_-_baked
+usemtl Escort_Alliance_63778e0a-b8b8-4c33-b522-87a224d12c3d
 v 0.3937 -0.0000 0.5709
 v -0.3937 -0.0000 0.5709
 v -0.3937 0.0000 -0.5709

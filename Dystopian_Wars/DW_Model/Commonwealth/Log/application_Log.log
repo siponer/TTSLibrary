@@ -1,0 +1,1491 @@
+2025-04-24 20:30:49 [INFO] AnycubicPhotonWorkshop start!
+2025-04-24 20:30:49 [INFO] argc:  2
+2025-04-24 20:30:49 [WARN] "D:/Program Files/AnycubicPhotonWorkshop"
+2025-04-24 20:30:49 [WARN] Successfully init crashpad
+2025-04-24 20:30:49 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2025-04-24 20:30:49 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2025-04-24 20:30:49 [INFO] ctk manager plugins:  "D:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2025-04-24 20:30:50 [INFO] Load plugin org.commontk.eventadmin success.
+2025-04-24 20:30:50 [INFO] [Install Plugin] "D:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2025-04-24 20:30:50 [INFO] Install Plugin Success!
+2025-04-24 20:30:50 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2025-04-24 20:30:50 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2025-04-24 20:30:50 [INFO] [Install Plugin] "D:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2025-04-24 20:30:50 [INFO] Install Plugin Success!
+2025-04-24 20:30:50 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono X) init success.
+2025-04-24 20:30:50 [INFO] loadMachineParamRange is success.
+2025-04-24 20:30:50 [INFO] loadMachineResinType is success.
+2025-04-24 20:30:50 [INFO] loadMachineResinName is success.
+2025-04-24 20:30:50 [INFO] [Install Plugin] "D:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2025-04-24 20:30:50 [INFO] Install Plugin Success!
+2025-04-24 20:30:51 [INFO] "current server is testserver. 0"
+2025-04-24 20:30:51 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2025-04-24 20:30:51 [INFO] QmlFactory 0.391 s
+2025-04-24 20:30:51 [INFO] [Install Plugin] "D:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2025-04-24 20:30:51 [INFO] Install Plugin Success!
+2025-04-24 20:30:51 [INFO] [Install Plugin] "D:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2025-04-24 20:30:51 [INFO] Install Plugin Success!
+2025-04-24 20:30:52 [INFO] [Install Plugin] "D:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2025-04-24 20:30:52 [INFO] Install Plugin Success!
+2025-04-24 20:30:52 [WARN] ACCloudDataModel::ACCloudDataModel, importTempPath = C:/Users/Riccardo/AppData/Local/Temp/ac_cloud/, dowloadPath = C:/Users/Riccardo/Videos/Downloads/ac_cloud/
+2025-04-24 20:30:52 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = CN
+2025-04-24 20:30:52 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2025-04-24 20:30:52 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2025-04-24 20:30:53 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-02-28 17:54:44, git_brance = release/pws3.3, git_hash = d70c34a, git_commit = 2024-02-28
+2025-04-24 20:30:53 [INFO] [Install Plugin] "D:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2025-04-24 20:30:53 [INFO] Install Plugin Success!
+2025-04-24 20:30:53 [WARN] Translation::changedSystemLanguage, language = 0
+2025-04-24 20:30:53 [WARN] register  GizmoController
+2025-04-24 20:30:53 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2025-04-24 20:30:54 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 20:30:54 [INFO] uiState:  false
+2025-04-24 20:30:54 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 20:30:55 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:55 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:55 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:55 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:55 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:55 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:55 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:55 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:55 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:55 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:55 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:55 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:55 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:55 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:55 [WARN] xChanged 1
+2025-04-24 20:30:55 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2025-04-24 20:30:55 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2025-04-24 20:30:55 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2025-04-24 20:30:55 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 284
+2025-04-24 20:30:55 [INFO] uiState:  true
+2025-04-24 20:30:55 [WARN] creating renderer
+2025-04-24 20:30:55 [WARN] printer valid --:  96 60
+2025-04-24 20:30:55 [WARN] printer build --:  96 60
+2025-04-24 20:30:55 [WARN] deltaX -- :  0
+2025-04-24 20:30:55 [WARN] deltaY -- :  0
+2025-04-24 20:30:55 [WARN] machine boarder width 2-------------------- 
+2025-04-24 20:30:55 [WARN] create planar shadow node
+2025-04-24 20:30:55 [WARN] loadGizmoRotationHead OK 576
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "NodeVisitor"
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "\"CollectedCoordinateSystemNodesVisitor\""
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "ComputeBoundsVisitor"
+2025-04-24 20:30:55 [INFO]  camera_manipulator::home
+2025-04-24 20:30:55 [INFO]  camera_manipulator::home/ComputeBound
+2025-04-24 20:30:55 [INFO]  camera_manipulator::home
+2025-04-24 20:30:55 [INFO]  camera_manipulator::home/ComputeBound
+2025-04-24 20:30:55 [INFO]  camera_manipulator::home/BoundingSphere
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:55 [INFO]  camera_manipulator::home/udpate_view
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "GLObjectsVisitor"
+2025-04-24 20:30:55 [WARN] GL Verison:  0x1dce4c24850
+2025-04-24 20:30:55 [WARN] GL Renderer:  0x1dcd8be4240
+2025-04-24 20:30:55 [WARN] compile shader program ok
+2025-04-24 20:30:55 [WARN] compile shader program ok
+2025-04-24 20:30:55 [WARN] compile shader program ok
+2025-04-24 20:30:55 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2025-04-24 20:30:55 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:55 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:55 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:55 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:55 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:55 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:55 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2025-04-24 20:30:56 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2025-04-24 20:30:56 [INFO] send post data success!
+2025-04-24 20:30:56 [INFO] parseImportFiles other files: Z:\GitHub\TTSLibrary\Dystopian_Wars\DW_Model\Commonwealth\Khodynka_m
+2025-04-24 20:30:56 [INFO] parseImportFiles other files: Z:\GitHub\TTSLibrary\Dystopian_Wars\DW_Model\Commonwealth\Khodynka_m
+2025-04-24 20:30:56 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.0\",\n    \"appVersion\": \"v3.3.0\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\x84\x8F\xE5\xA4\xA7\xE5\x88\xA9\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"935fc980cdd245a8c0d1e73fb30bc78e\",\n    \"printerType\": \"\",\n    \"province\": \"0\",\n    \"timestamp\": 1745519456,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2025-04-24 20:30:56 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [INFO] uiState:  false
+2025-04-24 20:30:56 [WARN] enableMenuShortcut menushort cut: 32
+2025-04-24 20:30:56 [INFO] "doReportImportModelResult!"
+2025-04-24 20:30:56 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Import Files\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ImportModelResult\",\n    \"function\": \"import_model\",\n    \"module\": \"menu_bar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"\"\n}\n") extentionData:  QVariant(QByteArray, "{\n    \"importType\": \"4\",\n    \"modelInformation\": [\n        {\n            \"fileName\": \"Khodynka_m\",\n            \"fileSize\": 1350,\n            \"fileType\": \"\",\n            \"isSuccess\": 1\n        }\n    ],\n    \"numberOfModel\": 1\n}\n")
+2025-04-24 20:30:56 [INFO] "start check autoUpdater!"
+2025-04-24 20:30:56 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:56 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:56 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:57 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2025-04-24 20:30:57 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:57 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:57 [WARN] QFSFileEngine::open: No file name specified
+2025-04-24 20:30:57 [WARN] Cannot open file '', because: No file name specified
+2025-04-24 20:30:57 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.0\",\n    \"appVersion\": \"v3.3.0\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\x84\x8F\xE5\xA4\xA7\xE5\x88\xA9\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ImportModelResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"935fc980cdd245a8c0d1e73fb30bc78e\",\n    \"printerType\": \"\",\n    \"province\": \"0\",\n    \"timestamp\": 1745519457,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2025-04-24 20:30:57 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 284
+2025-04-24 20:30:57 [INFO] send post data success!
+2025-04-24 20:30:58 [INFO] uiState:  false
+2025-04-24 20:30:58 [INFO] send post data success!
+2025-04-24 20:31:01 [INFO] uiState:  false
+2025-04-24 20:31:02 [INFO] uiState:  true
+2025-04-24 20:31:02 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 20:34:33 [WARN] Retrying to obtain clipboard.
+2025-04-24 20:40:53 [INFO] check Backup Secene!
+2025-04-24 20:40:58 [INFO] get idle state:  true
+2025-04-24 20:40:58 [INFO] backupScene start!
+2025-04-24 20:40:58 [INFO] uiState:  false
+2025-04-24 20:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 20:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 20:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 20:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 20:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 20:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 20:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 20:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:40:58 [INFO] backupScene end!
+2025-04-24 20:40:58 [INFO] uiState:  true
+2025-04-24 20:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 20:42:16 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 20:50:53 [INFO] check Backup Secene!
+2025-04-24 20:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 20:50:58 [INFO] get idle state:  true
+2025-04-24 20:50:58 [INFO] backupScene start!
+2025-04-24 20:50:58 [INFO] uiState:  false
+2025-04-24 20:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 20:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 20:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 20:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 20:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 20:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 20:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 20:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 20:50:58 [INFO] backupScene end!
+2025-04-24 20:50:58 [INFO] uiState:  true
+2025-04-24 20:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 21:00:53 [INFO] check Backup Secene!
+2025-04-24 21:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 21:00:58 [INFO] get idle state:  true
+2025-04-24 21:00:58 [INFO] backupScene start!
+2025-04-24 21:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 21:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 21:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:00:58 [INFO] backupScene end!
+2025-04-24 21:00:58 [INFO] uiState:  false
+2025-04-24 21:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 21:00:58 [INFO] uiState:  true
+2025-04-24 21:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 21:10:53 [INFO] check Backup Secene!
+2025-04-24 21:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 21:10:58 [INFO] get idle state:  true
+2025-04-24 21:10:58 [INFO] backupScene start!
+2025-04-24 21:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 21:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 21:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:10:58 [INFO] backupScene end!
+2025-04-24 21:10:58 [INFO] uiState:  false
+2025-04-24 21:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 21:10:58 [INFO] uiState:  true
+2025-04-24 21:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 21:20:53 [INFO] check Backup Secene!
+2025-04-24 21:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 21:20:58 [INFO] get idle state:  true
+2025-04-24 21:20:58 [INFO] backupScene start!
+2025-04-24 21:20:58 [INFO] uiState:  false
+2025-04-24 21:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 21:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 21:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 21:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:20:58 [INFO] backupScene end!
+2025-04-24 21:20:58 [INFO] uiState:  true
+2025-04-24 21:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 21:30:53 [INFO] check Backup Secene!
+2025-04-24 21:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 21:30:58 [INFO] get idle state:  true
+2025-04-24 21:30:58 [INFO] backupScene start!
+2025-04-24 21:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 21:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 21:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:30:58 [INFO] backupScene end!
+2025-04-24 21:30:58 [INFO] uiState:  false
+2025-04-24 21:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 21:30:58 [INFO] uiState:  true
+2025-04-24 21:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 21:40:53 [INFO] check Backup Secene!
+2025-04-24 21:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 21:40:58 [INFO] get idle state:  true
+2025-04-24 21:40:58 [INFO] backupScene start!
+2025-04-24 21:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 21:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 21:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:40:58 [INFO] backupScene end!
+2025-04-24 21:40:58 [INFO] uiState:  false
+2025-04-24 21:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 21:40:58 [INFO] uiState:  true
+2025-04-24 21:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 21:50:53 [INFO] check Backup Secene!
+2025-04-24 21:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 21:50:58 [INFO] get idle state:  true
+2025-04-24 21:50:58 [INFO] backupScene start!
+2025-04-24 21:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 21:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 21:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:50:58 [INFO] uiState:  false
+2025-04-24 21:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 21:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 21:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 21:50:58 [INFO] backupScene end!
+2025-04-24 21:50:58 [INFO] uiState:  true
+2025-04-24 21:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 22:00:53 [INFO] check Backup Secene!
+2025-04-24 22:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 22:00:58 [INFO] get idle state:  true
+2025-04-24 22:00:58 [INFO] backupScene start!
+2025-04-24 22:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 22:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:00:58 [INFO] uiState:  false
+2025-04-24 22:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 22:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 22:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:00:58 [INFO] backupScene end!
+2025-04-24 22:00:58 [INFO] uiState:  true
+2025-04-24 22:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 22:10:53 [INFO] check Backup Secene!
+2025-04-24 22:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 22:10:58 [INFO] get idle state:  true
+2025-04-24 22:10:58 [INFO] backupScene start!
+2025-04-24 22:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 22:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 22:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:10:58 [INFO] backupScene end!
+2025-04-24 22:10:58 [INFO] uiState:  false
+2025-04-24 22:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 22:10:58 [INFO] uiState:  true
+2025-04-24 22:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 22:20:53 [INFO] check Backup Secene!
+2025-04-24 22:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 22:20:58 [INFO] get idle state:  true
+2025-04-24 22:20:58 [INFO] backupScene start!
+2025-04-24 22:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 22:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 22:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:20:58 [INFO] backupScene end!
+2025-04-24 22:20:58 [INFO] uiState:  false
+2025-04-24 22:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 22:20:58 [INFO] uiState:  true
+2025-04-24 22:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 22:30:53 [INFO] check Backup Secene!
+2025-04-24 22:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 22:30:58 [INFO] get idle state:  true
+2025-04-24 22:30:58 [INFO] backupScene start!
+2025-04-24 22:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 22:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 22:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:30:58 [INFO] backupScene end!
+2025-04-24 22:30:58 [INFO] uiState:  false
+2025-04-24 22:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 22:30:58 [INFO] uiState:  true
+2025-04-24 22:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 22:40:53 [INFO] check Backup Secene!
+2025-04-24 22:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 22:40:58 [INFO] get idle state:  true
+2025-04-24 22:40:58 [INFO] backupScene start!
+2025-04-24 22:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 22:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 22:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:40:58 [INFO] backupScene end!
+2025-04-24 22:40:58 [INFO] uiState:  false
+2025-04-24 22:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 22:40:58 [INFO] uiState:  true
+2025-04-24 22:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 22:50:53 [INFO] check Backup Secene!
+2025-04-24 22:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 22:50:58 [INFO] get idle state:  true
+2025-04-24 22:50:58 [INFO] backupScene start!
+2025-04-24 22:50:58 [INFO] uiState:  false
+2025-04-24 22:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 22:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 22:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 22:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 22:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 22:50:58 [INFO] backupScene end!
+2025-04-24 22:50:58 [INFO] uiState:  true
+2025-04-24 22:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 23:00:53 [INFO] check Backup Secene!
+2025-04-24 23:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 23:00:58 [INFO] get idle state:  true
+2025-04-24 23:00:58 [INFO] backupScene start!
+2025-04-24 23:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 23:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 23:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:00:58 [INFO] backupScene end!
+2025-04-24 23:00:58 [INFO] uiState:  false
+2025-04-24 23:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 23:00:58 [INFO] uiState:  true
+2025-04-24 23:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 23:10:53 [INFO] check Backup Secene!
+2025-04-24 23:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 23:10:58 [INFO] get idle state:  true
+2025-04-24 23:10:58 [INFO] backupScene start!
+2025-04-24 23:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 23:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 23:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:10:58 [INFO] backupScene end!
+2025-04-24 23:10:58 [INFO] uiState:  false
+2025-04-24 23:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 23:10:58 [INFO] uiState:  true
+2025-04-24 23:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 23:20:53 [INFO] check Backup Secene!
+2025-04-24 23:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 23:20:58 [INFO] get idle state:  true
+2025-04-24 23:20:58 [INFO] backupScene start!
+2025-04-24 23:20:58 [INFO] uiState:  false
+2025-04-24 23:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 23:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 23:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 23:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:20:58 [INFO] backupScene end!
+2025-04-24 23:20:58 [INFO] uiState:  true
+2025-04-24 23:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 23:30:53 [INFO] check Backup Secene!
+2025-04-24 23:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 23:30:58 [INFO] get idle state:  true
+2025-04-24 23:30:58 [INFO] backupScene start!
+2025-04-24 23:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 23:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:30:58 [INFO] uiState:  false
+2025-04-24 23:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 23:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 23:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:30:58 [INFO] backupScene end!
+2025-04-24 23:30:58 [INFO] uiState:  true
+2025-04-24 23:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 23:40:53 [INFO] check Backup Secene!
+2025-04-24 23:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 23:40:58 [INFO] get idle state:  true
+2025-04-24 23:40:58 [INFO] backupScene start!
+2025-04-24 23:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 23:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 23:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:40:58 [INFO] backupScene end!
+2025-04-24 23:40:58 [INFO] uiState:  false
+2025-04-24 23:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 23:40:58 [INFO] uiState:  true
+2025-04-24 23:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-24 23:50:53 [INFO] check Backup Secene!
+2025-04-24 23:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-24 23:50:58 [INFO] get idle state:  true
+2025-04-24 23:50:58 [INFO] backupScene start!
+2025-04-24 23:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-24 23:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-24 23:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-24 23:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-24 23:50:58 [INFO] backupScene end!
+2025-04-24 23:50:58 [INFO] uiState:  false
+2025-04-24 23:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-24 23:50:58 [INFO] uiState:  true
+2025-04-24 23:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 00:00:53 [INFO] check Backup Secene!
+2025-04-25 00:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 00:00:58 [INFO] get idle state:  true
+2025-04-25 00:00:58 [INFO] backupScene start!
+2025-04-25 00:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 00:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 00:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:00:58 [INFO] backupScene end!
+2025-04-25 00:00:58 [INFO] uiState:  false
+2025-04-25 00:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 00:00:58 [INFO] uiState:  true
+2025-04-25 00:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 00:10:53 [INFO] check Backup Secene!
+2025-04-25 00:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 00:10:58 [INFO] get idle state:  true
+2025-04-25 00:10:58 [INFO] backupScene start!
+2025-04-25 00:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 00:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 00:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:10:58 [INFO] backupScene end!
+2025-04-25 00:10:58 [INFO] uiState:  false
+2025-04-25 00:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 00:10:58 [INFO] uiState:  true
+2025-04-25 00:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 00:20:53 [INFO] check Backup Secene!
+2025-04-25 00:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 00:20:58 [INFO] get idle state:  true
+2025-04-25 00:20:58 [INFO] backupScene start!
+2025-04-25 00:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 00:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 00:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:20:58 [INFO] backupScene end!
+2025-04-25 00:20:58 [INFO] uiState:  false
+2025-04-25 00:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 00:20:58 [INFO] uiState:  true
+2025-04-25 00:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 00:30:53 [INFO] check Backup Secene!
+2025-04-25 00:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 00:30:58 [INFO] get idle state:  true
+2025-04-25 00:30:58 [INFO] backupScene start!
+2025-04-25 00:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 00:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 00:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:30:58 [INFO] backupScene end!
+2025-04-25 00:30:58 [INFO] uiState:  false
+2025-04-25 00:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 00:30:58 [INFO] uiState:  true
+2025-04-25 00:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 00:40:53 [INFO] check Backup Secene!
+2025-04-25 00:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 00:40:58 [INFO] get idle state:  true
+2025-04-25 00:40:58 [INFO] backupScene start!
+2025-04-25 00:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 00:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 00:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:40:58 [INFO] backupScene end!
+2025-04-25 00:40:58 [INFO] uiState:  false
+2025-04-25 00:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 00:40:58 [INFO] uiState:  true
+2025-04-25 00:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 00:50:53 [INFO] check Backup Secene!
+2025-04-25 00:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 00:50:58 [INFO] get idle state:  true
+2025-04-25 00:50:58 [INFO] backupScene start!
+2025-04-25 00:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 00:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 00:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 00:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 00:50:58 [INFO] backupScene end!
+2025-04-25 00:50:58 [INFO] uiState:  false
+2025-04-25 00:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 00:50:58 [INFO] uiState:  true
+2025-04-25 00:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 01:00:53 [INFO] check Backup Secene!
+2025-04-25 01:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 01:00:58 [INFO] get idle state:  true
+2025-04-25 01:00:58 [INFO] backupScene start!
+2025-04-25 01:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 01:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:00:58 [INFO] uiState:  false
+2025-04-25 01:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 01:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 01:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:00:58 [INFO] backupScene end!
+2025-04-25 01:00:58 [INFO] uiState:  true
+2025-04-25 01:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 01:10:53 [INFO] check Backup Secene!
+2025-04-25 01:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 01:10:58 [INFO] get idle state:  true
+2025-04-25 01:10:58 [INFO] backupScene start!
+2025-04-25 01:10:58 [INFO] uiState:  false
+2025-04-25 01:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 01:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 01:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 01:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:10:58 [INFO] backupScene end!
+2025-04-25 01:10:58 [INFO] uiState:  true
+2025-04-25 01:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 01:20:53 [INFO] check Backup Secene!
+2025-04-25 01:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 01:20:58 [INFO] get idle state:  true
+2025-04-25 01:20:58 [INFO] backupScene start!
+2025-04-25 01:20:58 [INFO] uiState:  false
+2025-04-25 01:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 01:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 01:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 01:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:20:58 [INFO] backupScene end!
+2025-04-25 01:20:58 [INFO] uiState:  true
+2025-04-25 01:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 01:30:53 [INFO] check Backup Secene!
+2025-04-25 01:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 01:30:58 [INFO] get idle state:  true
+2025-04-25 01:30:58 [INFO] backupScene start!
+2025-04-25 01:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 01:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 01:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:30:58 [INFO] uiState:  false
+2025-04-25 01:30:58 [INFO] backupScene end!
+2025-04-25 01:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 01:30:58 [INFO] uiState:  true
+2025-04-25 01:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 01:40:53 [INFO] check Backup Secene!
+2025-04-25 01:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 01:40:58 [INFO] get idle state:  true
+2025-04-25 01:40:58 [INFO] backupScene start!
+2025-04-25 01:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 01:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 01:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:40:58 [INFO] backupScene end!
+2025-04-25 01:40:58 [INFO] uiState:  false
+2025-04-25 01:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 01:40:58 [INFO] uiState:  true
+2025-04-25 01:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 01:50:53 [INFO] check Backup Secene!
+2025-04-25 01:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 01:50:58 [INFO] get idle state:  true
+2025-04-25 01:50:58 [INFO] backupScene start!
+2025-04-25 01:50:58 [INFO] uiState:  false
+2025-04-25 01:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 01:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 01:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 01:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 01:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 01:50:58 [INFO] backupScene end!
+2025-04-25 01:50:58 [INFO] uiState:  true
+2025-04-25 01:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 02:00:53 [INFO] check Backup Secene!
+2025-04-25 02:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 02:00:58 [INFO] get idle state:  true
+2025-04-25 02:00:58 [INFO] backupScene start!
+2025-04-25 02:00:58 [INFO] uiState:  false
+2025-04-25 02:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 02:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 02:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 02:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:00:58 [INFO] backupScene end!
+2025-04-25 02:00:58 [INFO] uiState:  true
+2025-04-25 02:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 02:10:53 [INFO] check Backup Secene!
+2025-04-25 02:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 02:10:58 [INFO] get idle state:  true
+2025-04-25 02:10:58 [INFO] backupScene start!
+2025-04-25 02:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 02:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 02:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:10:58 [INFO] backupScene end!
+2025-04-25 02:10:58 [INFO] uiState:  false
+2025-04-25 02:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 02:10:58 [INFO] uiState:  true
+2025-04-25 02:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 02:20:53 [INFO] check Backup Secene!
+2025-04-25 02:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 02:20:58 [INFO] get idle state:  true
+2025-04-25 02:20:58 [INFO] backupScene start!
+2025-04-25 02:20:58 [INFO] uiState:  false
+2025-04-25 02:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 02:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 02:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 02:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:20:58 [INFO] backupScene end!
+2025-04-25 02:20:58 [INFO] uiState:  true
+2025-04-25 02:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 02:30:53 [INFO] check Backup Secene!
+2025-04-25 02:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 02:30:58 [INFO] get idle state:  true
+2025-04-25 02:30:58 [INFO] backupScene start!
+2025-04-25 02:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 02:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 02:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:30:58 [INFO] backupScene end!
+2025-04-25 02:30:58 [INFO] uiState:  false
+2025-04-25 02:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 02:30:58 [INFO] uiState:  true
+2025-04-25 02:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 02:40:53 [INFO] check Backup Secene!
+2025-04-25 02:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 02:40:58 [INFO] get idle state:  true
+2025-04-25 02:40:58 [INFO] backupScene start!
+2025-04-25 02:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 02:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 02:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:40:58 [INFO] backupScene end!
+2025-04-25 02:40:58 [INFO] uiState:  false
+2025-04-25 02:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 02:40:58 [INFO] uiState:  true
+2025-04-25 02:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 02:50:53 [INFO] check Backup Secene!
+2025-04-25 02:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 02:50:58 [INFO] get idle state:  true
+2025-04-25 02:50:58 [INFO] backupScene start!
+2025-04-25 02:50:58 [INFO] uiState:  false
+2025-04-25 02:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 02:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 02:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 02:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 02:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 02:50:58 [INFO] backupScene end!
+2025-04-25 02:50:58 [INFO] uiState:  true
+2025-04-25 02:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 03:00:53 [INFO] check Backup Secene!
+2025-04-25 03:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 03:00:58 [INFO] get idle state:  true
+2025-04-25 03:00:58 [INFO] backupScene start!
+2025-04-25 03:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 03:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 03:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:00:58 [INFO] backupScene end!
+2025-04-25 03:00:58 [INFO] uiState:  false
+2025-04-25 03:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 03:00:58 [INFO] uiState:  true
+2025-04-25 03:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 03:10:53 [INFO] check Backup Secene!
+2025-04-25 03:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 03:10:58 [INFO] get idle state:  true
+2025-04-25 03:10:58 [INFO] backupScene start!
+2025-04-25 03:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 03:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 03:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:10:58 [INFO] backupScene end!
+2025-04-25 03:10:58 [INFO] uiState:  false
+2025-04-25 03:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 03:10:58 [INFO] uiState:  true
+2025-04-25 03:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 03:20:53 [INFO] check Backup Secene!
+2025-04-25 03:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 03:20:58 [INFO] get idle state:  true
+2025-04-25 03:20:58 [INFO] backupScene start!
+2025-04-25 03:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 03:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 03:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:20:58 [INFO] backupScene end!
+2025-04-25 03:20:58 [INFO] uiState:  false
+2025-04-25 03:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 03:20:58 [INFO] uiState:  true
+2025-04-25 03:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 03:30:53 [INFO] check Backup Secene!
+2025-04-25 03:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 03:30:58 [INFO] get idle state:  true
+2025-04-25 03:30:58 [INFO] backupScene start!
+2025-04-25 03:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 03:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:30:58 [INFO] uiState:  false
+2025-04-25 03:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 03:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 03:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:30:58 [INFO] backupScene end!
+2025-04-25 03:30:58 [INFO] uiState:  true
+2025-04-25 03:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 03:40:53 [INFO] check Backup Secene!
+2025-04-25 03:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 03:40:58 [INFO] get idle state:  true
+2025-04-25 03:40:58 [INFO] backupScene start!
+2025-04-25 03:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 03:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 03:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:40:58 [INFO] backupScene end!
+2025-04-25 03:40:58 [INFO] uiState:  false
+2025-04-25 03:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 03:40:58 [INFO] uiState:  true
+2025-04-25 03:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 03:50:53 [INFO] check Backup Secene!
+2025-04-25 03:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 03:50:58 [INFO] get idle state:  true
+2025-04-25 03:50:58 [INFO] backupScene start!
+2025-04-25 03:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 03:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 03:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 03:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 03:50:58 [INFO] backupScene end!
+2025-04-25 03:50:58 [INFO] uiState:  false
+2025-04-25 03:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 03:50:58 [INFO] uiState:  true
+2025-04-25 03:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 04:00:53 [INFO] check Backup Secene!
+2025-04-25 04:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 04:00:58 [INFO] get idle state:  true
+2025-04-25 04:00:58 [INFO] backupScene start!
+2025-04-25 04:00:58 [INFO] uiState:  false
+2025-04-25 04:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 04:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 04:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 04:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:00:58 [INFO] backupScene end!
+2025-04-25 04:00:58 [INFO] uiState:  true
+2025-04-25 04:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 04:10:53 [INFO] check Backup Secene!
+2025-04-25 04:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 04:10:58 [INFO] get idle state:  true
+2025-04-25 04:10:58 [INFO] backupScene start!
+2025-04-25 04:10:58 [INFO] uiState:  false
+2025-04-25 04:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 04:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 04:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 04:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:10:58 [INFO] backupScene end!
+2025-04-25 04:10:58 [INFO] uiState:  true
+2025-04-25 04:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 04:20:53 [INFO] check Backup Secene!
+2025-04-25 04:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 04:20:58 [INFO] get idle state:  true
+2025-04-25 04:20:58 [INFO] backupScene start!
+2025-04-25 04:20:58 [INFO] uiState:  false
+2025-04-25 04:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 04:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 04:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 04:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:20:58 [INFO] backupScene end!
+2025-04-25 04:20:58 [INFO] uiState:  true
+2025-04-25 04:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 04:30:53 [INFO] check Backup Secene!
+2025-04-25 04:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 04:30:58 [INFO] get idle state:  true
+2025-04-25 04:30:58 [INFO] backupScene start!
+2025-04-25 04:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 04:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 04:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:30:58 [INFO] backupScene end!
+2025-04-25 04:30:58 [INFO] uiState:  false
+2025-04-25 04:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 04:30:58 [INFO] uiState:  true
+2025-04-25 04:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 04:40:53 [INFO] check Backup Secene!
+2025-04-25 04:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 04:40:58 [INFO] get idle state:  true
+2025-04-25 04:40:58 [INFO] backupScene start!
+2025-04-25 04:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 04:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 04:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:40:58 [INFO] backupScene end!
+2025-04-25 04:40:58 [INFO] uiState:  false
+2025-04-25 04:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 04:40:58 [INFO] uiState:  true
+2025-04-25 04:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 04:50:53 [INFO] check Backup Secene!
+2025-04-25 04:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 04:50:58 [INFO] get idle state:  true
+2025-04-25 04:50:58 [INFO] backupScene start!
+2025-04-25 04:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 04:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 04:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 04:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 04:50:58 [INFO] backupScene end!
+2025-04-25 04:50:58 [INFO] uiState:  false
+2025-04-25 04:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 04:50:58 [INFO] uiState:  true
+2025-04-25 04:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 05:00:53 [INFO] check Backup Secene!
+2025-04-25 05:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 05:00:58 [INFO] get idle state:  true
+2025-04-25 05:00:58 [INFO] backupScene start!
+2025-04-25 05:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 05:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 05:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:00:58 [INFO] backupScene end!
+2025-04-25 05:00:58 [INFO] uiState:  false
+2025-04-25 05:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 05:00:58 [INFO] uiState:  true
+2025-04-25 05:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 05:10:53 [INFO] check Backup Secene!
+2025-04-25 05:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 05:10:58 [INFO] get idle state:  true
+2025-04-25 05:10:58 [INFO] backupScene start!
+2025-04-25 05:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 05:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 05:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:10:58 [INFO] backupScene end!
+2025-04-25 05:10:58 [INFO] uiState:  false
+2025-04-25 05:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 05:10:58 [INFO] uiState:  true
+2025-04-25 05:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 05:20:53 [INFO] check Backup Secene!
+2025-04-25 05:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 05:20:58 [INFO] get idle state:  true
+2025-04-25 05:20:58 [INFO] backupScene start!
+2025-04-25 05:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 05:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 05:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:20:58 [INFO] backupScene end!
+2025-04-25 05:20:58 [INFO] uiState:  false
+2025-04-25 05:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 05:20:58 [INFO] uiState:  true
+2025-04-25 05:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 05:30:53 [INFO] check Backup Secene!
+2025-04-25 05:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 05:30:58 [INFO] get idle state:  true
+2025-04-25 05:30:58 [INFO] backupScene start!
+2025-04-25 05:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 05:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 05:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:30:58 [INFO] backupScene end!
+2025-04-25 05:30:58 [INFO] uiState:  false
+2025-04-25 05:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 05:30:58 [INFO] uiState:  true
+2025-04-25 05:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 05:40:53 [INFO] check Backup Secene!
+2025-04-25 05:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 05:40:58 [INFO] get idle state:  true
+2025-04-25 05:40:58 [INFO] backupScene start!
+2025-04-25 05:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 05:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 05:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:40:58 [INFO] backupScene end!
+2025-04-25 05:40:58 [INFO] uiState:  false
+2025-04-25 05:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 05:40:58 [INFO] uiState:  true
+2025-04-25 05:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 05:50:53 [INFO] check Backup Secene!
+2025-04-25 05:50:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 05:50:58 [INFO] get idle state:  true
+2025-04-25 05:50:58 [INFO] backupScene start!
+2025-04-25 05:50:58 [INFO] uiState:  false
+2025-04-25 05:50:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 05:50:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 05:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:50:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 05:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:50:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 05:50:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 05:50:58 [INFO] backupScene end!
+2025-04-25 05:50:58 [INFO] uiState:  true
+2025-04-25 05:50:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 06:00:53 [INFO] check Backup Secene!
+2025-04-25 06:00:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 06:00:58 [INFO] get idle state:  true
+2025-04-25 06:00:58 [INFO] backupScene start!
+2025-04-25 06:00:58 [INFO] uiState:  false
+2025-04-25 06:00:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 06:00:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 06:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:00:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:00:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 06:00:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:00:58 [INFO] backupScene end!
+2025-04-25 06:00:58 [INFO] uiState:  true
+2025-04-25 06:00:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 06:10:53 [INFO] check Backup Secene!
+2025-04-25 06:10:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 06:10:58 [INFO] get idle state:  true
+2025-04-25 06:10:58 [INFO] backupScene start!
+2025-04-25 06:10:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 06:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:10:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:10:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 06:10:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:10:58 [INFO] backupScene end!
+2025-04-25 06:10:58 [INFO] uiState:  false
+2025-04-25 06:10:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 06:10:58 [INFO] uiState:  true
+2025-04-25 06:10:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 06:20:53 [INFO] check Backup Secene!
+2025-04-25 06:20:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 06:20:58 [INFO] get idle state:  true
+2025-04-25 06:20:58 [INFO] backupScene start!
+2025-04-25 06:20:58 [INFO] uiState:  false
+2025-04-25 06:20:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 06:20:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 06:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:20:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:20:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 06:20:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:20:58 [INFO] backupScene end!
+2025-04-25 06:20:58 [INFO] uiState:  true
+2025-04-25 06:20:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 06:30:53 [INFO] check Backup Secene!
+2025-04-25 06:30:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 06:30:58 [INFO] get idle state:  true
+2025-04-25 06:30:58 [INFO] backupScene start!
+2025-04-25 06:30:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 06:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:30:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:30:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 06:30:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:30:58 [INFO] backupScene end!
+2025-04-25 06:30:58 [INFO] uiState:  false
+2025-04-25 06:30:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 06:30:58 [INFO] uiState:  true
+2025-04-25 06:30:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 06:40:53 [INFO] check Backup Secene!
+2025-04-25 06:40:53 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2025-04-25 06:40:58 [INFO] get idle state:  true
+2025-04-25 06:40:58 [INFO] backupScene start!
+2025-04-25 06:40:58 [INFO] SceneWorker::callbackProgress :  99
+2025-04-25 06:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:40:58 [INFO] SceneWorker::callbackProgress :  0
+2025-04-25 06:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:40:58 [INFO] SceneWorker::callbackProgress :  100
+2025-04-25 06:40:58 [INFO] SceneWorker::m_bCancel :  false
+2025-04-25 06:40:58 [INFO] backupScene end!
+2025-04-25 06:40:58 [INFO] uiState:  false
+2025-04-25 06:40:58 [WARN] enableMenuShortcut menushort cut: 8
+2025-04-25 06:40:58 [INFO] uiState:  true
+2025-04-25 06:40:58 [WARN] enableMenuShortcut menushort cut: 0
+2025-04-25 06:42:21 [INFO] scene modifyed:  false
+2025-04-25 06:42:21 [INFO] save support file is success!
+2025-04-25 06:42:23 [INFO] AnycubicPhotonWorkshop end!
+2025-04-25 06:42:23 [WARN] QThreadStorage: Thread 0x1dcd8bcd830 exited after QThreadStorage 7 destroyed

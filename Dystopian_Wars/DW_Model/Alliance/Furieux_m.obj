@@ -1,8 +1,8 @@
 # Vectary OBJ Export units=mm  2.1219	1.0129
-mtllib Furieaux.mtl
-o 000_Furieaux_-_baked
-g Furieaux_-_baked
-usemtl Furieaux_63778e0a-b8b8-4c33-b522-87a224d12c3d
+mtllib Furieux.mtl
+o 000_Furieux_-_baked
+g Furieux_-_baked
+usemtl Furieux_63778e0a-b8b8-4c33-b522-87a224d12c3d
 v 1.0129 -0.0000 2.1219
 v -1.0129 -0.0000 2.1219
 v -1.0129 0.0000 -2.1219
